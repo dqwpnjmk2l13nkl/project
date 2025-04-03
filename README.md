@@ -15,4 +15,4 @@
 - 챗봇 기능
 
 ## 🙋‍♀️ 메인 화면   
-
+![Image](https://github.com/user-attachments/assets/46fd7120-0e94-4eae-88b4-b506fb2e63e4)
